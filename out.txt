@@ -1,0 +1,265 @@
+
+WON FRE
+
+SRE Re BES
+
+Peach eR et
+
+261
+
+CONSIDERATIONS OF THE EFFECT OF VIOL DOWNWASH
+ON THE GROUND ENVIRONMENT
+By Thomas C. O'Bryan
+
+Langley Research Center
+
+This paper will consider VTOL downwash from the standpoint of
+ground erosion and movement of objects to determine the present status
+of the downwash problen.
+
+The first problem which will be considered is the erosion effect
+of the downwash. Figure 1 indicates the dynamic pressure required to
+start erosion for a number of ground surfaces. This information is a
+summary of small-scale erosion tests reported in reference 1 except for
+the example of loose crushed rock at 19 lb/sq ft. This example was
+obtained from an incident with the Vertol VZ-2 operating over an area
+covered with loose rock which resulted in damage to the airplane. All
+data shown in figure 1 were obtained with the use of cold jets. Since
+sod withstands erosion at dynamic pressures up to 1,000 lo/sq ft, opera-
+tion of jet VTOL aircraft over this surface would appear feasible.
+Landings of the Bell X-14 and Short S.C.1 on sod have, in fact, verified
+this feasibility. Experience indicates, however, that hot jets operating
+over sod would eventually burn off the grass and dry out the soil with
+resulting erosion.
+
+The most serious effect of erosion arises when the dynamic pressure
+is sufficient to dig a crater in the ground, a condition which is usually
+imminent once erosion starts. The crater not only represents a source
+of material to be recirculated, but in addition, the sides of the crater
+provide a path for the eroded material to be projected vertically into
+the rotor.
+
+In addition to the crater problem, eroded material moving radially
+may encounter large enough objects on the surface of the ground to project
+them vertically into the rotor or onto the airframe.
+
+The flow field around a hovering aircraft determines the extent of
+the area to which these considerations apply. A schematic illustration
+of the flow field is shown in figure 2. The presence of the ground turns
+the flow from a vertical to a horizontal direction, and it is this flow
+of air parallel to the ground which is of concern. Measurements of the
+dynamic pressure of the outward flow of air were made with a vertically
+traversing pitot head at several radial distances from the center of the
+rotor. The height of the rotor above the ground varied from about
+
+Preceding page blank
+
+oF
+
+NEXT PAGE
+262
+
+1/3 diameter to 1 diameter, so the effect of rotor height on the flow
+field is not considered significant.
+
+Typical results of these surveys for a 35-foot rotor are shown in
+figure 3. Shown in this figure is the variation of the ratio of dynamic
+
+pressure to disk loading aa with height above the ground measured in
+
+dfameters h/D. The data indicate a general geometric similarity of
+
+the profiles and a decrease in maximum dynamic pressure as distance from
+the rotor is increased. Inasmuch as these profiles indicate that the
+height of this sheet of air is nearly constant, momentum considerations
+would indicate that this decrease in dynamic pressure with increase in
+distance from the rotor would be expected because as the radial distance
+(the distance in all directions from the center of the rotor) increases,
+the circumference of the sheet of air increases linearly with distance.
+Therefore the flow area increases and continuity requires that the veloc-
+ity must decrease. From these considerations it would be expected that
+the dynamic pressure would decrease inversely as the square of the radial
+distance.
+
+A typical decay of the maximum dynamic pressure with increase in
+distance from a rotor x/D is shown in figure 4. Here the ratio of
+the maximum dynamic pressure divided by the disk loading is plotted as
+a function of the radial distance for a full-scale 9.5-foot rotor and
+for a 28-inch-diameter model and is compared with the calculations based
+on the previous considerations. The actual decay is somewhat more rapid
+than this simple estimate as a result of the mixing of the flow with the
+still air above it and the friction with the ground beneath as the flow
+moves away from the source.
+
+These results have been presented nondimensionally; in the practical
+case it is of interest to compare the actual q at a given distance
+from the aircraft for different disk loadings. To facilitate this com-
+parison model data have been scaled to full-scale disk loadings. In fig-
+ure 5 the decay of maximum dynamic pressure of the air flowing along the
+ground is compared for two 40,000-pound-gross-weight configurations, one
+with a disk loading of 10 lb/sq ft and the other at half the diameter
+with a disk loading of 40 1b/sq ft. The main feature to be noted here
+is that at a reasonable distance from the center the maximum dynamic
+pressure is equal for the two rotors. Except in the near vicinity of
+the aircraft dynamic pressure is a function of gross weight or thrust
+and not a function of disk loading. Moreover as indicated by the sketch
+at the top of figure 5, the sheet of air flowing along the ground is
+thinner for the smaller rotor. Figure 6 shows the distribution of
+dynamic pressure with height above the ground for the two rotors at a
+distance of 72 feet from the center. The greater depth of the fliow for
+the large rotor indicates that in these regions where dynamic pressure
+
+wonrrne
+
+NEXT PAGE
+L
+1
+4
+2
+9
+
+is equal for the two rotors the large-diameter low-disk-loading machines
+would produce larger overturning moments to objects under its influence
+than would the smaller diameter high-disk-loading rotor. However, in
+the area in the immediate vicinity of the aircraft the erosion problems
+that may be encountered are a function of disk loading.
+
+The discussion so far has dealt with single-rotor configurations.
+When multiple rotors are used, interactions can exist which bring in
+other considerations. Figure 7 is shown in order to discuss the effect
+of the flow at the plane of symmetry that exists when the flow from two
+rotors meet. The first point to be made is that the resulting vertical
+flow of air under the fuselage provides a path for the products of ero-
+sion to be recirculated. An example of this is the Vertol VZ-2 incident
+mentioned previously. In this case the loose rock was projected by the
+flow into the open fuselage, as well as into the propellers with con-
+siderable resulting damage to the machine. It is expected that the
+situation would have been less severe in the case of a closed fuselage.
+
+Another feature of the flow in the plane of symmetry is that for
+short distances ahead of and behind the airplane the meeting of the two
+slipstreams results in an increase in the dynamic pressure of the air-
+flow parallel to the ground. Figure 8 illustrates this effect using
+model data scaled to full-scale disk loadings. Here is shown the con-
+tour line for a constant dynamic pressure of 8 lo/sq ft around a two-
+propeller configuration. This increase in dynamic pressure shows up as
+the peak in the contour line ahead of the nose. Also shown is the con-
+tour line for a constant dynamic pressure of 8 1b/sq ft that would be
+obtained with a single rotor of the same disk loading. It can be seen
+that for practical purposes there is little difference between these
+contours. Thus the effects of the interaction of these two flows are
+confined to the immediate vicinity of the airplane.
+
+CONCLUSIONS
+
+In conclusion, ground erosion becomes a serious problem as disk
+loading is increased, and operating experience is needed to define the
+tolerable limits.
+
+The problems associated with increased disk loading are confined
+to the immediate vicinity of the aircraft. Except for this area in
+the vicinity of the aircraft the dynamic pressure of the outward flowing
+sheet of air is dependent only on the gross weight of the aircraft.
+Furthermore, the thickness of this outward flowing sheet of air decreases
+directly with decreases in the diameter of the slipstream.
+
+
+NEXT PAGE
+264
+
+REFERENCE
+
+1. Kuhn, Richard E.: An Investigation To Determine Conditions Under
+Which Downwash From VIOL Aircraft Will Start Surface Erosion From
+Various Types of Terrain. NASA TN D-56, 1959.
+
+von Fre
+
+
+NEXT PAGE
+Piao dainlk, Ghee Balai tet? ait
+
+265
+
+DYNAMIC PRESSURE REQUIRED TO START EROSION
+
+SOD
+
+WET SAND
+
+20 30 40
+DYNAMIC PRESSURE, LB/SQ FT
+
+Figure 1
+
+DOWNWASH FROM AN ISOLATED ROTOR
+
+Figure 2
+
+
+NEXT PAGE
+DYNAMIC-PRESSURE PROFILE FOR_ISOLATED ROTOR MEASURED ON
+RADIAL LINE FROM CENTER OF ROTATION
+
+lia
+
+COMPARISON OF ESTIMATED AND MEASURED
+DYNAMIC -PRESSURE DECAY
+
+—— — ESTIMATED
+9° MODEL
+Oo FULL- SCALE
+
+
+NEXT PAGE
+COMPARISON OF THE DECAY FOR TWO DISK LOADINGS
+é W = 40,000 LB
+
+TT
+: A aN
+——
+EES
+
+D=72FT
+DISK LOADING = 10 LB/SQ FT
+
+— CO 6 FT
+
+r= DISK LOADING = 40 LB/SQ FT
+
+D = 36 FT
+
+40 80 120
+DISTANCE FROM CENTER LINE, FT
+Figure 5
+THICKNESS OF DYNAMIC PRESSURE PROFILES
+
+W = 40,000 LB; x = 72 FT
+
+HEIGHT ABOVE
+GROUND, h, FT
+
+DYNAMIC PRESSURE q, LB/FT2
+
+Figure 6
+
+267
+
+NEXT PAGE
+Sas i dete h i) SRO tee ae ae
+
+THREE-DIMENSIONAL SLIPSTREAM PATTERN
+
+Figure 7
+
+GROUND DYNAMIC PRESSURE CONTOUR
+FOR HOVERING VTOL
+
+DISK LOADING « 40 LB/FT@
+ee TTA SINGLE
+\ J ROTOR
+CONTOUR FOR \ +36 FT
+q= 8 LBIFT2 \
+
+
+NEXT PAGE
